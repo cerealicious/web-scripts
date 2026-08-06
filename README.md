@@ -18,7 +18,7 @@ Clicking the **Install** link on any script below will automatically open your u
 
 | Folder | Script Name | Description | Install Link |
 | :--- | :--- | :--- | :---: |
-| `cloudfam.io/` | **Cloudfam Bypass & Redirector** | Auto-redirects landing pages and skips the 15-second download timer on cloudfam.io. | [Install](https://raw.githubusercontent.com/cerealicious/web-scripts/main/cloudfam-bypass.js) |
+| `cloudfam.io/` | **Cloudfam Bypass & Redirector** | Auto-redirects landing pages and skips the 15-second download timer on cloudfam.io. | [Install](https://raw.githubusercontent.com/cerealicious/web-scripts/main/cloudfam-bypass.user.js) |
 
 *(More scripts will be added here as the repository grows)*
 
