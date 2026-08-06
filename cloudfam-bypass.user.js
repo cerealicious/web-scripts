@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         Cloudfam Landing Redirector & Timer Bypasser
-// @namespace    https://github.com/your-username/web-scripts
+// @namespace    https://github.com/cerealicious/web-scripts
 // @version      1.1.0
 // @description  Automatically redirects landing.php to predownload.php and bypasses the 15-second timer on cloudfam.io to reveal the download link immediately.
-// @author       Cerealicious
+// @author       cerealicious
 // @homepageURL  https://github.com/cerealicious/web-scripts
 // @supportURL   https://github.com/cerealicious/web-scripts/issues
-// @updateURL    https://github.com/cerealicious/web-scripts/blob/main/cloudfam-bypass.js
-// @downloadURL  https://github.com/cerealicious/web-scripts/blob/main/cloudfam-bypass.js
+// @updateURL    https://raw.githubusercontent.com/cerealicious/web-scripts/main/cloudfam-bypass.user.js
+// @downloadURL  https://raw.githubusercontent.com/cerealicious/web-scripts/main/cloudfam-bypass.user.js
+// @icon         https://cloudfam.io/uploads/Favicon.png
 // @match        https://cloudfam.io/adflow/landing.php*
 // @match        https://cloudfam.io/adflow/predownload.php*
 // @run-at       document-start
