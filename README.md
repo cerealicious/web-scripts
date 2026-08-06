@@ -19,7 +19,7 @@ Clicking the **Install** link on any script below will automatically open your u
 | Script Name | Description | Install Link |
 | :--- | :--- | :---: |
 | **cloudfam-bypass.user.js** | Auto-redirects landing pages and skips the 15-second download timer on cloudfam.io. | [Install](https://raw.githubusercontent.com/cerealicious/web-scripts/main/cloudfam-bypass.user.js) |
-| **Text-Replacer.js** | Replaces specific strings in the webpage DOM dynamically. | [Install](https://raw.githubusercontent.com/cerealicious/web-scripts/main/Text-Replacer.js) |
+| **Text-Replacer.user.js** | Replaces specific strings in the webpage DOM dynamically. | [Install](https://raw.githubusercontent.com/cerealicious/web-scripts/main/Text-Replacer.user.js) |
 
 *(More scripts will be added here as the repository grows)*
 
