@@ -6,7 +6,6 @@
 // @author       Cerealicious
 // @homepageURL  https://github.com/cerealicious/web-scripts
 // @supportURL   https://github.com/cerealicious/web-scripts/issues
-https://github.com/cerealicious/web-scripts/edit/main/cloudfam-bypass.js
 // @updateURL    https://github.com/cerealicious/web-scripts/blob/main/cloudfam-bypass.js
 // @downloadURL  https://github.com/cerealicious/web-scripts/blob/main/cloudfam-bypass.js
 // @match        https://cloudfam.io/adflow/landing.php*
