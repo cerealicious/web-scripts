@@ -1,2 +1,25 @@
-# web-scripts
-Personal collection of userscripts for skipping timers, auto-redirecting URLs, and customizing site functionality.
+# 🌐 Web Scripts
+
+A personal collection of custom userscripts designed for **Violentmonkey**, **Tampermonkey**, and **Greasemonkey**. These scripts streamline web browsing by auto-redirecting pages, skipping countdown timers, bypassing unnecessary steps, and improving site usability.
+
+---
+
+## ⚡ Quick Install
+
+To use these scripts, make sure you have a userscript manager installed in your browser:
+- [Violentmonkey](https://violentmonkey.github.io/) *(Recommended)*
+- [Tampermonkey](https://www.tampermonkey.net/)
+
+Clicking the **Install** link on any script below will automatically open your userscript manager and prompt you to install or update it.
+
+---
+
+## 📂 Included Scripts
+
+| Folder | Script Name | Description | Install Link |
+| :--- | :--- | :--- | :---: |
+| `cloudfam.io/` | **Cloudfam Bypass & Redirector** | Auto-redirects landing pages and skips the 15-second download timer on cloudfam.io. | [Install](https://raw.githubusercontent.com/your-username/web-scripts/main/cloudfam.io/cloudfam-bypass.user.js) |
+
+*(More scripts will be added here as the repository grows)*
+
+---
