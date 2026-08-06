@@ -6,7 +6,7 @@
 // @author       cerealicious
 // @homepageURL  https://github.com/cerealicious/web-scripts
 // @supportURL   https://github.com/cerealicious/web-scripts/issues
-// @updateURL    https://raw.githubusercontent.com/cerealicious/web-scripts/main/Text-Replacer.js.js
+// @updateURL    https://raw.githubusercontent.com/cerealicious/web-scripts/main/Text-Replacer.js
 // @downloadURL  https://raw.githubusercontent.com/cerealicious/web-scripts/main/Text-Replacer.js
 // @match        *://*/*
 // @grant        none
