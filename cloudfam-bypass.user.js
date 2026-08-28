@@ -10,6 +10,7 @@
 // @downloadURL  https://raw.githubusercontent.com/cerealicious/web-scripts/main/cloudfam-bypass.user.js
 // @icon         https://cloudfam.io/uploads/Favicon.png
 // @match        https://cloudfam.io/*
+// @license      MIT
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
