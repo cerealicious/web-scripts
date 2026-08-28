@@ -11,6 +11,7 @@
 // @icon         https://zdrive.to/favicon.ico
 // @match        https://zdrive.to/*
 // @run-at       document-start
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
