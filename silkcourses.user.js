@@ -10,7 +10,7 @@
 // @updateURL    https://raw.githubusercontent.com/cerealicious/web-scripts/main/silkcourses.user.js
 // @downloadURL  https://raw.githubusercontent.com/cerealicious/web-scripts/main/silkcourses.user.js
 // @match        https://silkcourses.com/*
-// @license      GPL-3.0-or-later
+// @license      MIT
 // @run-at       document-body
 // @grant        none
 // ==/UserScript==
